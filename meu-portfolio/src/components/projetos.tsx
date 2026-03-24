@@ -34,7 +34,16 @@ const Projetos = () => {
           Um dos meus projetos principais. O Notes-Z é uma ferramenta focada em organização e anotações, 
           ajudando usuários a manterem suas ideias em ordem de forma simples e eficiente.
         </p>
-        <button style={{
+
+        <a
+          href="https://daannzy9384.github.io/Notes-Z/"
+          target="_blank"
+          rel="noopener noreferrer"
+            
+          style={{
+          display:'inline-block',
+          textDecoration: 'none',
+          color: '#333',
           width: 'fit-content',
           padding: '12px 35px',
           borderRadius: '30px',
@@ -43,9 +52,9 @@ const Projetos = () => {
           cursor: 'pointer',
           letterSpacing: '1px',
           fontWeight: 'bold'
-        }}>
+          }}>
           VISITAR NOTES-Z
-        </button>
+        </a>
       </div>
     </section>
   );
