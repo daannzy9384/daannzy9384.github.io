@@ -15,7 +15,7 @@ const Banner = () => {
         <ul className="actions stacked">
           <li>
             <a href="#first" className="button big wide smooth-scroll-middle">
-              Saiba Mais
+              ainda nao tem nada aqui ^^
             </a>
           </li>
         </ul>
