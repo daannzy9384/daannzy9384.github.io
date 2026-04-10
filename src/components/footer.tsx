@@ -12,9 +12,9 @@ const footer: React.FC = () => {
                     </li>
                     
                 </ul>
-                <p>
-                    &copy; {new Date().getFullYear()}  daannzy9384
-                </p>
+            
+               <p style={{ fontSize: '14px', color: '#666' }}>&copy; 2026 daannzy9384</p>
+
             </div>
         </footer>
     );

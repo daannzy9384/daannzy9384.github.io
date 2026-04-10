@@ -1,4 +1,4 @@
-import minhaFoto from '../assets/1773756960964.jpg';
+import minhaFoto from '../assets/myself.jpg';
 
 const Banner = () => {
   return (
