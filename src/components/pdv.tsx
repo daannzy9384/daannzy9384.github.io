@@ -30,7 +30,7 @@ export const Projetos = () => {
         justifyContent: 'center',
         minWidth: '320px'
       }}>
-        <h2 style={{ fontSize: '2.5rem', fontWeight: '300', color: '#333' }}>Meus Projetos</h2>
+        
         <h3 style={{ color: '#a38383', marginTop: '1rem', fontSize: '1.5rem' }}>POS-System (PDV)</h3>
         <p style={{ margin: '1.5rem 0', lineHeight: '1.8', color: '#555' }}>
                     Este projeto é um sistema de Ponto de Venda (PDV) projetado para simular o processo de finalização de compra em um supermercado ou loja de varejo.

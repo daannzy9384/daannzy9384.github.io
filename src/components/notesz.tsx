@@ -1,3 +1,5 @@
+import Notesz from '../assets/notesz.png';
+
 export const Projetos = () => {
   return (
     <section style={{ 
@@ -16,7 +18,7 @@ export const Projetos = () => {
         backgroundColor: '#ddd',
         fontSize: '5rem'
       }}>
-        <img src="/src/assets/notesz.png"></img>
+        <img src={Notesz}></img>
       
       </div>
 
@@ -37,7 +39,7 @@ export const Projetos = () => {
         </p>
 
         <a
-          href="https://daannzy9384.github.io/Notes-Z/"
+          href="https://web-notesz.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
             

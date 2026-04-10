@@ -10,16 +10,10 @@ const footer: React.FC = () => {
                         <span className="label">Github</span>
                         </a>
                     </li>
-                    <li>
-                            <a href="#"className="icon brands style2 fa-linkedin-in">
-                                <span className="label">Email</span>
-                            </a>  
-                    </li>
+                    
                 </ul>
                 <p>
-                    &copy; {new Date().getFullYear()} daannzy9384.
-                     Design: <a href="https://html5up.net">HTTML5 UP</a>.
-
+                    &copy; {new Date().getFullYear()}  daannzy9384
                 </p>
             </div>
         </footer>

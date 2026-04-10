@@ -10,7 +10,7 @@ const Banner = () => {
         </p>
         <p>
           Olá! Meu nome é Daniel Oliveira Santos. Atualmente estou aprendendo novas 
-          línguas através de cursos e certificações :).
+          línguas através de cursos e certificações ^^.
         </p>
         <ul className="actions stacked">
           <li>
