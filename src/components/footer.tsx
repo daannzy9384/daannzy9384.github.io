@@ -6,7 +6,8 @@ const footer: React.FC = () => {
             <div className="inner">
                 <ul className="icons">
                     <li>
-                        <a href="https://github.com/daannzy9384" className="icon brands style2 fa-github">
+                        <a href="https://github.com/daannzy9384" className="icon brands style2">
+                            <i className="fab fa-github" aria-hidden="true"></i>
                             <span className="label">Github</span>
                         </a>
                     </li>                    
