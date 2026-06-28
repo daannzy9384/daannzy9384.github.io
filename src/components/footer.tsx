@@ -7,14 +7,11 @@ const footer: React.FC = () => {
                 <ul className="icons">
                     <li>
                         <a href="https://github.com/daannzy9384" className="icon brands style2 fa-github">
-                        <span className="label">Github</span>
+                            <span className="label">Github</span>
                         </a>
-                    </li>
-                    
+                    </li>                    
                 </ul>
-            
                <p style={{ fontSize: '14px', color: '#666' }}>&copy; 2026 daannzy9384</p>
-
             </div>
         </footer>
     );

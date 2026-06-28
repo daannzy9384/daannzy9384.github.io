@@ -3,7 +3,7 @@ import minhaFoto from '../assets/myself.jpg';
 const Banner = () => {
   return (
     <section className="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
-      <div className="content">
+      <div className="content reveal delay-1"> 
         <h1>Blog do Dan</h1>
         <p className="major">
           Compartilhando minha jornada pelo mundo.
@@ -20,7 +20,7 @@ const Banner = () => {
           </li>
         </ul>
       </div>
-      <div className="image">
+      <div className="image reveal delay-2">
         <img src={minhaFoto} alt="Daniel Oliveira" />
       </div>
     </section>
